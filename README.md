@@ -75,4 +75,4 @@ When you work on the implementation tasks, please follow TypeScript types carefu
 
 ## Demo Video
 Watch the full demo of the application here:
-[Insert Demo Video Link Here]
+[QDC Mini Dashboard Demo Video](https://jumpshare.com/share/QEtoHecCWMfPDk6c0YQq)
