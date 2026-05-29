@@ -1,3 +1,10 @@
+<img width="1919" height="919" alt="image" src="https://github.com/user-attachments/assets/41e236b3-cce4-4af4-a4bc-479ca4b9e845" />
+
+## Demo Video
+Watch the full demo of the application here:
+[QDC Mini Dashboard Demo Video](https://drive.google.com/file/d/1ZwtmQNyF6_ZDCOs9NGeTx_dZN-NW7DY9/view?usp=sharing)
+
+
 # QDC Mini Assignment
 
 This repository contains a very small slice of **QDC (Quick Dry Cleaning Software)**, a B2B POS and business management app for retail laundry and dry-cleaning businesses. The goal is to simulate how you would work with an existing TypeScript/NestJS/React codebase, extend features, and reason about tradeoffs.
